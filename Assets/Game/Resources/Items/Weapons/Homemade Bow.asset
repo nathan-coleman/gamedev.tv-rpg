@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f84b08dcd13e4584790d41fc2cb47fb8, type: 3}
+  m_Name: Homemade Bow
+  m_EditorClassIdentifier: 
+  itemID: fb27a18b-6149-4c5f-b05d-a0813827531b
+  displayName: 
+  description: 'Boeng '
+  icon: {fileID: 0}
+  pickup: {fileID: 6904940453584227198, guid: 53c4e5b67cf02344cac4f7e472691974, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  modifiers:
+  - modifierType: 0
+    stat: 0
+    value: 3
+  weaponAnimOverride: {fileID: 22100000, guid: 0c45d95c5baa8e54bba9926246875e29, type: 2}
+  hitOrLaunchClip: {fileID: 8300000, guid: 94fc62564eabf2e429355affe6bee585, type: 3}
+  weaponEquipedPrefab: {fileID: 5412939706673569997, guid: 0211949c8769b004b897651e0ad1cb65, type: 3}
+  isRightHanded: 0
+  projectilePrefab: {fileID: 2153743910250086059, guid: ad32668424973bd49ae2daab71e56519, type: 3}
+  weaponRange: 10
